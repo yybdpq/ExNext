@@ -1,4 +1,4 @@
-# EXNEXT
+# ExNext
 we focus on implementing two key aspects of trust-worthiness in recommender systems – accuracy and explainability – and present **Self-explainable Next POI Recommendation**, a novel ante-hoc self-explainable frame-work for next POI recommendation, jointly learns to predict and
 explain the recommendation in an ante-hoc manner (i.e. learning to explain during training itself, as opposed to post-hoc explainability methods popularly used today).
 
